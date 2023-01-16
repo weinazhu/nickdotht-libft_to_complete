@@ -10,6 +10,10 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/* libft.h function .c files: origin by By: jrameau <marvin@42.fr> or 
+	it's his real French name
+*/
+
 #ifndef LIBFT_H
 # define LIBFT_H
 # include <string.h>
